@@ -1,0 +1,27 @@
+
+#built app files
+*.apk
+*.ap_
+
+#dex vm
+*.dex
+
+google-services.json
+
+bfg.jar
+
+#local config
+local.properties
+
+*.iml
+.idea
+.idea/misc.xml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/release
+/captures
+.externalNativeBuild
