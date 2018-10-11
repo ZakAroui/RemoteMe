@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
         initRecyclerView();
         initViewModel();
 
+        //TODO - ADD HOME PAGE
+        //TODO - ADD MAP/LIST PAGE
+        //TODO - ADD ADD-PLACE PAGE
+
     }
 
     private void initViewModel() {
