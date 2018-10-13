@@ -55,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
         //TODO - ADD MAP/LIST PAGE
         //TODO - ADD ADD-PLACE PAGE
         //TODO - CHANGE LOGO
-        //TODO - CHANGE APP COLORS
 
     }
 
